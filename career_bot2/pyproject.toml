@@ -1,0 +1,16 @@
+[project]
+name = "career-bot2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10,<3.12"
+dependencies = [
+    "python-dotenv>=1.0.1",
+    "gradio>=4.44.1,<5.0.0",
+    "huggingface-hub<0.26.0",
+    "starlette<1.0.0",
+    "openai>=2.32.0",
+    "requests>=2.32.3",
+    "pypdf>=6.10.2",
+    
+]
