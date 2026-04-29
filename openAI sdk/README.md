@@ -4,4 +4,4 @@
 ### sendgrid library from twilio for sending cold sales emails
 ## guardrails
 
-### General python asyncio (corountines) async def and await on result
+### General python asyncio (coroutines) async def and await on result
