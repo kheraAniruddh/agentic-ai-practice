@@ -3,3 +3,5 @@
 ## tools- agents can be used as tool (using as_tool), handoffs
 ### sendgrid library from twilio for sending cold sales emails
 ## guardrails
+
+### General python asyncio (corountines) async def and await on result
